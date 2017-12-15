@@ -14,25 +14,6 @@ namespace ConsoleApp3
 
     class Program
     {
-        public class Pair
-        {
-            public String tag;
-            public Double confidence;
-
-            public Pair(String tag, Double confidence)
-            {
-                this.tag = tag;
-                this.confidence = confidence;
-            }
-
-
-            override
-            public String ToString()
-            {
-                String result = "Tag " + this.tag + "/nConfidence " + this.confidence;
-                return result;
-            }
-        }
         private static string SubscriptionKey = "2f5ec80f14a4448ab2056cc0d4e5eb36";
 
         private static async Task<AnalysisResult> UploadAndAnalyzeImage(string imageFilePath)
