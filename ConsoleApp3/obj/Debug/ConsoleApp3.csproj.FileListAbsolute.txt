@@ -1,0 +1,10 @@
+C:\Users\Asus ROG\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\Asus ROG\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\Asus ROG\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\Asus ROG\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\Microsoft.ProjectOxford.Vision.dll
+C:\Users\Asus ROG\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Asus ROG\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Asus ROG\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csprojResolveAssemblyReference.cache
+C:\Users\Asus ROG\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\Asus ROG\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\Asus ROG\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
